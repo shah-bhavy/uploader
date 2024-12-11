@@ -1,0 +1,26 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+#progressContainer {
+    display: none;
+}
+
+progress {
+    width: 100%;
+    height: 20px;
+}
+
+#progressText, #speed, #estimatedTime {
+    margin-top: 10px;
+}
